@@ -63,7 +63,8 @@ class profile_page_card extends StatelessWidget {
           ),
           Container(
             alignment: Alignment.center,
-            width: 130,
+            // width: 130,
+            width: 110,
             height: 160,
             decoration: BoxDecoration(
               image: DecorationImage(
